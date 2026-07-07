@@ -3,7 +3,7 @@
 ![pandas](https://img.shields.io/badge/pandas-2.0+-red.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-## 📌 O que contém nesse repositório
+## 📌 Sobre este repositório
 
 Análise de **1,7M registros** do fluxo de mercadorias exportadas pelo Brasil em 2025, identificando padrões sobre a dinâmica logística e especialização regional.
 
