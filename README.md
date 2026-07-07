@@ -20,7 +20,7 @@ Análise de **1,7M registros** do fluxo de mercadorias exportadas pelo Brasil em
 
 | Visão Geral | Análise Regional | Modal de Transporte |
 |-------------|------------------|---------------------|
-| ![Visão Geral](../images/dashboard-geral.png) | ![Análise Regional](../images/dashboard-estados.png) | ![Modal](../images/dashboard-vias.png) |
+| ![Visão Geral](images/dashboard-geral.png) | ![Análise Regional](images/dashboard-estados.png) | ![Modal](images/dashboard-vias.png) |
 
 ---
 
@@ -63,17 +63,17 @@ Análise de **1,7M registros** do fluxo de mercadorias exportadas pelo Brasil em
 
 ---
 
-## 🔗 Acesso aos Dados Brutos
+## Acesso aos Dados Brutos
 
-A tabela FATO (`EXP_2025.csv`) **não está incluída** (~1,7 GB). Baixe em:
+A tabela FATO (`EXP_2025.csv`) **não está incluída** neste repositório. Baixe em:
 
 👉 [Comex Stat - MDIC](https://comexstat.mdic.gov.br/) (ano: 2025 | tipo: exportação)
 
-**Tabelas auxiliares** (NCM, UF, VIA, PAIS) disponíveis em `/tabelas-auxiliares/`.
+**Tabelas auxiliares** (NCM, UF, VIA, PAIS) disponíveis na pasta `tabelas-auxiliares/`.
 
 ---
 
-## 📐 Modelo de Dados (Star Schema)
+## Modelo de Dados (Star Schema)
 
 ### Relacionamentos (1:N)
 | Tabela (1) | Coluna (PK) | Tabela (N) | Coluna (FK) |
@@ -85,7 +85,7 @@ A tabela FATO (`EXP_2025.csv`) **não está incluída** (~1,7 GB). Baixe em:
 
 ---
 
-## 🔄 Tratamentos Realizados no Power Query
+## Tratamentos Realizados no Power Query
 
 **1. Ajuste do cabeçalho da `dim_uf`**
 - Problema: Cabeçalho na 2ª linha do CSV
