@@ -1,22 +1,22 @@
 # Panorama das exportações brasileiras (2025) | ETL com Power Query e Python + Dashboard Power BI
+![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
+![pandas](https://img.shields.io/badge/pandas-2.0+-red.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-## 📌 Sobre o Projeto
+## 📌 O que contém nesse repositório
 
 Análise de **1,7M registros** do fluxo de mercadorias exportadas pelo Brasil em 2025, identificando padrões sobre a dinâmica logística e especialização regional.
 
-**Stack:**
-- **Power BI + Power Query** → Transformação, modelagem e visualização
-- **Python (pandas)** → Validação de encoding e consistência dos dados
-- **Google Colab** → Ambiente de desenvolvimento
+- Notebook com ETL e validação da qualidade dos dados
+- Dashboard com KPIs
+- Insights sobre logística e especialização regional
 
-**Entregas:**
-- Dashboard
-- KPIs (Ticket Médio, Peso Médio)
-- Insights estratégicos
-- Notebooks com validações
+## 🔗 **[Notebook de ETL e Validação]()** 
+
+## 🔗 **[Baixe o Dashboard Power BI]()**
 
 ---
-## 📊 Dashboard
+## 📊 Dashboard Preview
 
 | Visão Geral | Análise Regional | Modal de Transporte |
 |-------------|------------------|---------------------|
@@ -63,17 +63,13 @@ Análise de **1,7M registros** do fluxo de mercadorias exportadas pelo Brasil em
 
 ---
 
-## 🔗**Notebook com Validações Disponível:** [`notebooks/validador_comex.ipynb`](link)
-
----
-
-## 🔗 Acesso aos Dados
+## 🔗 Acesso aos Dados Brutos
 
 A tabela FATO (`EXP_2025.csv`) **não está incluída** (~1,7 GB). Baixe em:
 
 👉 [Comex Stat - MDIC](https://comexstat.mdic.gov.br/) (ano: 2025 | tipo: exportação)
 
-**Tabelas auxiliares** (NCM, UF, VIA, PAIS) disponíveis em `data/tabelas-auxiliares/`.
+**Tabelas auxiliares** (NCM, UF, VIA, PAIS) disponíveis em `/tabelas-auxiliares/`.
 
 ---
 
