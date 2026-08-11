@@ -16,7 +16,7 @@ Análise de **1,7M registros** do fluxo de mercadorias exportadas pelo Brasil em
 ## 🔗 **[Baixe o Dashboard Power BI]()**
 
 ---
-## 📊 Dashboard Preview
+## 📊 Dashboard preview
 
 | Visão Geral | Análise Regional | Modal de Transporte |
 |-------------|------------------|---------------------|
@@ -24,7 +24,7 @@ Análise de **1,7M registros** do fluxo de mercadorias exportadas pelo Brasil em
 
 ---
 
-## 📊 Principais Insights
+## 📊 Principais insights
 
 ### 1. Especialização regional dos estados
 
@@ -85,7 +85,7 @@ A tabela FATO (`EXP_2025.csv`) **não está incluída** neste repositório. Baix
 
 ---
 
-## Tratamentos Realizados no Power Query
+## Tratamentos realizados no Power Query
 
 **1. Ajuste do cabeçalho da `dim_uf`**
 - Problema: Cabeçalho na 2ª linha do CSV
