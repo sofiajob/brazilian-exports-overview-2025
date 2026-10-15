@@ -28,10 +28,10 @@ O dashboard apresenta indicadores e comparações sobre as exportações brasile
 
 | Unidade federativa | Valor exportado aproximado | Peso exportado aproximado | Leitura exploratória |
 |---|---:|---:|---|
-| São Paulo (SP) | US$ 71 bilhões | 60 bilhões de kg | Lidera em valor exportado no recorte analisado. |
+| São Paulo (SP) | US$ 71 bilhões | 60 bilhões de kg | Lidera em valor exportado e volume relativamente baixo no recorte analisado. Exportação de produtos industrializados e de alto valor agregado |
 | Minas Gerais (MG) | US$ 46 bilhões | 207 bilhões de kg | Combina valor elevado com grande massa exportada. |
 | Rio de Janeiro (RJ) | US$ 49 bilhões | 116 bilhões de kg | Ocupa a segunda posição em valor e a terceira em peso, com destaque para petróleo e derivados. |
-| Pará (PA) | US$ 24 bilhões | 190 bilhões de kg | Apresenta grande peso exportado em relação ao valor financeiro. |
+| Pará (PA) | US$ 24 bilhões | 190 bilhões de kg | Commodities pesadas de baixo valor unitário, mas altíssimo peso. |
 
 A comparação entre valor financeiro e peso evidencia perfis regionais distintos. Estados com grande massa exportada podem ter uma composição de produtos diferente daquela de estados que se destacam pelo valor total.
 
