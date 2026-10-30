@@ -1,4 +1,4 @@
-# Overview of Brazilian Exports (2025)
+# Brazilian Exports Overview (2025)
 ### ETL with Power Query and Python, Dimensional Modeling, and Power BI Dashboard
 
 Exploratory analysis of approximately **1.7 million Brazilian export records** from 2025, using public data from **Comex Stat**, provided by Brazil's Ministry of Development, Industry, Trade and Services (MDIC).
